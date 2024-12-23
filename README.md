@@ -35,7 +35,13 @@ Live Link: `https://stud-mgmt-portal.netlify.app`
 
 ## Screenshots
 
-[Dashboard Screenshot Here]
+![Dashboard](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/dashboard.png)
+![loading screen](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/LOAD_desktop.png)
+![Student table](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/stud_desktop.png)
+
+![Dashboard on phone](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/dashboard_phone.png)
+![loading screen on phone](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/load_phone.png)
+![Student Card](https://github.com/AyushiGupta160604/student-management-portal/blob/main/project%20preview/stud_phone.png)
 
 [Student List Screenshot Here]
 
