@@ -7,7 +7,6 @@ A modern and responsive web application for managing student data. Built with Re
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Demo](#demo) 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -39,8 +38,6 @@ Live Link: `https://stud-mgmt-portal.netlify.app`
 [Dashboard Screenshot Here]
 
 [Student List Screenshot Here]
-
-## Demo
 
 ## Getting Started
 
