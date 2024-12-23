@@ -12,8 +12,8 @@ A modern and responsive web application for managing student data. Built with Re
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running Locally](#running-locally)
-- [Deployment](#deployment)
 - [Folder Structure](#folder-structure)
+- [Contact](#contact)
 
 ## Features
 
@@ -80,20 +80,6 @@ Ensure you have the following installed:
    http://localhost:5173
    ```
 
-## Deployment
-
-### Deploying with Netlify
-
-1. Build the project for production:
-   ```bash
-   npm run build
-   ```
-
-2. Deploy using the Netlify CLI:
-   ```bash
-   netlify deploy --dir=dist
-   ```
-
 ## Folder Structure
 
 ```
@@ -110,3 +96,5 @@ student-management/
 ├── tailwind.config.js # TailwindCSS configuration
 └── vite.config.ts     # Vite configuration
 ```
+
+## Conatct
